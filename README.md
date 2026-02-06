@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**sh1651/sh1651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harish, a Graduate Electrical and Electronic Engineer with a Master’s degree in Robotics and Autonomous Systems Engineering.  
+I love technology and electronics, and I enjoy building small projects that make everyday life a little easier.
 
-Here are some ideas to get you started:
+Over the years, I’ve worked on many small projects and also led a few academic projects. I’m now collecting and organising them here on GitHub. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m working on:
+- 🔭 A personal website to showcase my electronics and engineering ideas  
+- 🌱 An ML/AI-powered app for face alignment and better photo-taking, mainly to help my parents  
+- 🔧 Learning advanced PCB design, including 6-layer PCBs  
+
+I’m actively looking for opportunities to learn, grow, and improve my skills.
+
+### Contact
+- 📧 Email: sriharish1651@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sri-harish-parthsarathy-7a0a63295  
+
+Thanks for taking a look!
