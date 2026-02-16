@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Harish, a Graduate Electrical and Electronic Engineer with a Master’s degree in Robotics and Autonomous Systems Engineering.  
+I'm Harish, a Graduate Engineering.  
 I love technology and electronics, and I enjoy building small projects that make everyday life a little easier.
 
 Over the years, I’ve worked on many small projects and also led a few academic projects. I’m now collecting and organising them here on GitHub. 
